@@ -1,0 +1,14 @@
+main() in assembly call mymain() in C
+in mymain(): argc=5 
+argv[0 ] = a.out
+argv[1 ] = one
+argv[2 ] = two
+argv[3 ] = three
+argv[4 ] = four
+---------- testing YOUR myprintf() ---------
+this is a test
+testing a=123  b=0x7B  c=a s=testing
+string=testing string, a=-1024   b=1024   c=02000   d=0x400 
+mymain() return to main() in assembly
+a=1234  b=5678 
+

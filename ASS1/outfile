@@ -1,0 +1,119 @@
+enter main
+&argc=bfd3bdb0 argv=bfd3be44 env=bfd3be58
+&a=bfd3bd8c &b=bfd3bd88 &c=bfd3bd84
+enter A
+&d=bfd3bd5c &e=bfd3bd58 &f=bfd3bd54
+enter B
+&g=bfd3bd2c &h=bfd3bd28 &i=bfd3bd24
+enter C
+&u=bfd3bcf4 &v=bfd3bcf0 &w=bfd3bcec
+****Stack frame linked list****
+FP = bfd3bd08
+FP = bfd3bd38
+FP = bfd3bd68
+FP = bfd3bd98
+FP =        0
+****Stack contents from FP-8 to the frame of main()****
+Stack Contents at -8(FP): bfd3bd00 with value        0.
+Stack Contents at -4(FP): bfd3bd04 with value        0.
+Stack Contents at 0(FP): bfd3bd08 with value bfd3bd38.
+Stack Contents at 4(FP): bfd3bd0c with value  804857d.
+Stack Contents at 8(FP): bfd3bd10 with value        7.
+Stack Contents at 12(FP): bfd3bd14 with value        8.
+Stack Contents at 16(FP): bfd3bd18 with value bfd3bd28.
+Stack Contents at 20(FP): bfd3bd1c with value bfd3bd24.
+Stack Contents at 24(FP): bfd3bd20 with value b76c8ac0.
+Stack Contents at 28(FP): bfd3bd24 with value        9.
+Stack Contents at 32(FP): bfd3bd28 with value        8.
+Stack Contents at 36(FP): bfd3bd2c with value        7.
+Stack Contents at 40(FP): bfd3bd30 with value        0.
+Stack Contents at 44(FP): bfd3bd34 with value        0.
+Stack Contents at 48(FP): bfd3bd38 with value bfd3bd68.
+Stack Contents at 52(FP): bfd3bd3c with value  8048514.
+Stack Contents at 56(FP): bfd3bd40 with value        4.
+Stack Contents at 60(FP): bfd3bd44 with value        5.
+Stack Contents at 64(FP): bfd3bd48 with value bfd3bd58.
+Stack Contents at 68(FP): bfd3bd4c with value bfd3bd54.
+Stack Contents at 72(FP): bfd3bd50 with value b76c8ac0.
+Stack Contents at 76(FP): bfd3bd54 with value        6.
+Stack Contents at 80(FP): bfd3bd58 with value        5.
+Stack Contents at 84(FP): bfd3bd5c with value        4.
+Stack Contents at 88(FP): bfd3bd60 with value bfd3bdb0.
+Stack Contents at 92(FP): bfd3bd64 with value b7706930.
+Stack Contents at 96(FP): bfd3bd68 with value bfd3bd98.
+Stack Contents at 100(FP): bfd3bd6c with value  80484a3.
+Stack Contents at 104(FP): bfd3bd70 with value        1.
+Stack Contents at 108(FP): bfd3bd74 with value        2.
+Stack Contents at 112(FP): bfd3bd78 with value bfd3bd88.
+Stack Contents at 116(FP): bfd3bd7c with value bfd3bd84.
+Stack Contents at 120(FP): bfd3bd80 with value        4.
+Stack Contents at 124(FP): bfd3bd84 with value        3.
+Stack Contents at 128(FP): bfd3bd88 with value        2.
+Stack Contents at 132(FP): bfd3bd8c with value        1.
+Stack Contents at 136(FP): bfd3bd90 with value bfd3bdb0.
+Stack Contents at 140(FP): bfd3bd94 with value b76c8000.
+Stack Contents at 144(FP): bfd3bd98 with value        0.
+Stack Contents at 148(FP): bfd3bd9c with value b753ba63.
+Stack Contents at 152(FP): bfd3bda0 with value  8048690.
+Stack Contents at 156(FP): bfd3bda4 with value        0.
+Stack Contents at 160(FP): bfd3bda8 with value        0.
+Stack Contents at 164(FP): bfd3bdac with value b753ba63.
+Stack Contents at 168(FP): bfd3bdb0 with value        4.
+Stack Contents at 172(FP): bfd3bdb4 with value bfd3be44.
+Stack Contents at 176(FP): bfd3bdb8 with value bfd3be58.
+Stack Contents at 180(FP): bfd3bdbc with value b76f47da.
+Stack Contents at 184(FP): bfd3bdc0 with value        4.
+Stack Contents at 188(FP): bfd3bdc4 with value bfd3be44.
+Stack Contents at 192(FP): bfd3bdc8 with value bfd3bde4.
+Stack Contents at 196(FP): bfd3bdcc with value  8049ad8.
+Stack Contents at 200(FP): bfd3bdd0 with value  804820c.
+Stack Contents at 204(FP): bfd3bdd4 with value b76c8000.
+Stack Contents at 208(FP): bfd3bdd8 with value        0.
+Stack Contents at 212(FP): bfd3bddc with value        0.
+Stack Contents at 216(FP): bfd3bde0 with value        0.
+Stack Contents at 220(FP): bfd3bde4 with value 230a99bc.
+Stack Contents at 224(FP): bfd3bde8 with value 2305bdad.
+Stack Contents at 228(FP): bfd3bdec with value        0.
+Stack Contents at 232(FP): bfd3bdf0 with value        0.
+Stack Contents at 236(FP): bfd3bdf4 with value        0.
+Stack Contents at 240(FP): bfd3bdf8 with value        4.
+Stack Contents at 244(FP): bfd3bdfc with value  8048330.
+Stack Contents at 248(FP): bfd3be00 with value        0.
+Stack Contents at 252(FP): bfd3be04 with value b76fa020.
+Stack Contents at 256(FP): bfd3be08 with value b753b979.
+Stack Contents at 260(FP): bfd3be0c with value b7706000.
+Stack Contents at 264(FP): bfd3be10 with value        4.
+Stack Contents at 268(FP): bfd3be14 with value  8048330.
+Stack Contents at 272(FP): bfd3be18 with value        0.
+Stack Contents at 276(FP): bfd3be1c with value  8048351.
+Stack Contents at 280(FP): bfd3be20 with value  804842b.
+Stack Contents at 284(FP): bfd3be24 with value        4.
+Stack Contents at 288(FP): bfd3be28 with value bfd3be44.
+Stack Contents at 292(FP): bfd3be2c with value  8048690.
+Stack Contents at 296(FP): bfd3be30 with value  8048700.
+Stack Contents at 300(FP): bfd3be34 with value b76f4c90.
+Stack Contents at 304(FP): bfd3be38 with value bfd3be3c.
+Stack Contents at 308(FP): bfd3be3c with value       1c.
+Stack Contents at 312(FP): bfd3be40 with value        4.
+Stack Contents at 316(FP): bfd3be44 with value bfd3d5bd.
+Stack Contents at 320(FP): bfd3be48 with value bfd3d5c5.
+Stack Contents at 324(FP): bfd3be4c with value bfd3d5c9.
+Stack Contents at 328(FP): bfd3be50 with value bfd3d5cd.
+Stack Contents at 332(FP): bfd3be54 with value        0.
+Stack Contents at 336(FP): bfd3be58 with value bfd3d5d3.
+Stack Contents at 340(FP): bfd3be5c with value bfd3d5de.
+Stack Contents at 344(FP): bfd3be60 with value bfd3d5ef.
+Stack Contents at 348(FP): bfd3be64 with value bfd3d602.
+Stack Contents at 352(FP): bfd3be68 with value bfd3d631.
+Stack Contents at 356(FP): bfd3be6c with value bfd3d64e.
+Stack Contents at 360(FP): bfd3be70 with value bfd3d680.
+Stack Contents at 364(FP): bfd3be74 with value bfd3d694.
+Stack Contents at 368(FP): bfd3be78 with value bfd3d69f.
+Stack Contents at 372(FP): bfd3be7c with value bfd3d6af.
+Stack Contents at 376(FP): bfd3be80 with value bfd3d6c5.
+Stack Contents at 380(FP): bfd3be84 with value bfd3d6d7.
+Stack Contents at 384(FP): bfd3be88 with value bfd3d6ed.
+Stack Contents at 388(FP): bfd3be8c with value bfd3d6f6.
+exit B
+exit A
+exit main

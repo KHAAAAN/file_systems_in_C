@@ -1,0 +1,11 @@
+#include "type.h"
+
+
+int main(int argc, char *argv[], char *env[]){
+	DEBUG = 0;
+	//disk = argv[1];
+	disk = "mydisk";
+	init();
+	
+	return 0;
+}

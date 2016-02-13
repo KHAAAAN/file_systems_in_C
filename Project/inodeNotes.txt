@@ -1,0 +1,1 @@
+The first inode number is 1. 0 is used as a NULL value, to indicate that there is no inode. Inode 1 is used to keep track of any bad blocks on the disk; it is essentially a hidden file containing the bad blocks, so that they will not be used by another file. The bad blocks can be recorded using e2fsck -c. The filesystem root directory is inode 2.
